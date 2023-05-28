@@ -22,19 +22,19 @@ Create the Checkout Times by Gender Viz: We still see the majority of checkouts 
 
 <img width="1087" alt="CheckoutGender" src="https://github.com/Jall3n/Module15_CitiBike/assets/119149740/6a4699e0-9882-4cc8-9ef6-fe669c795630">
 
-Create the Trips by Weekday for Each Hour Viz
+Create the Trips by Weekday for Each Hour Viz: The busiest days are Monday, Tuesday, and Thursday
 
 <img width="513" alt="TripsEachHr" src="https://github.com/Jall3n/Module15_CitiBike/assets/119149740/393e1fe6-70ce-4165-ad4c-8e87bb9b530a">
 
-Create the Trips by Gender (Weekday per Hour) Viz
+Create the Trips by Gender (Weekday per Hour) Viz: The busiest days are Monday, Tuesday, and Thursday with more males riding the bikes
 
 <img width="1085" alt="GenderTripsHr" src="https://github.com/Jall3n/Module15_CitiBike/assets/119149740/7cde0a77-8b2d-4d15-95cd-0c4decf89b01">
 
-Create the User Trips by Gender by Weekday Viz
+Create the User Trips by Gender by Weekday Viz: The majority of subscribers are male and they are using it a lot more than regular customers. 
 
 <img width="356" alt="WeekdayGender" src="https://github.com/Jall3n/Module15_CitiBike/assets/119149740/94f77b19-e813-4dff-b9cc-1c397d9540a0">
 
-August Peak Hours: The three busiest times are 8 AM, 5 PM, and 6 PM which falls in line with the typical work commute
+August Peak Hours: The three busiest times are 8 AM, 5 PM, and 6 PM which falls in line with the typical work commute.
 
 ![Screenshot 2023-05-24 at 6 29 18 PM](https://github.com/Jall3n/Module15_CitiBike/assets/119149740/477dc076-6137-4588-b986-171c0e4006cc)
 
@@ -47,7 +47,8 @@ Ending Map
 ![Screenshot 2023-05-24 at 6 28 59 PM](https://github.com/Jall3n/Module15_CitiBike/assets/119149740/d11fc9d4-3ea9-4785-aa0c-5b27d9483161)
 
 
-
-
-
 ## Summary
+
+Overall, just for the month of August, we received a large data set with over 2 million bike rides for the month. During the analysis we saw that males are the largest users of bike sharing, especially in the subscriber category, and that most users are riding the bikes during commuter hours. Additionally, the rides are usually within 1 hour.
+
+For further analysis I recommend we look into including the bike mileage information along with the trip duration, and the ages of the customers and subscribers. 
