@@ -8,6 +8,8 @@ The investors need some more convincing that a bike-sharing program is a good bu
 
 ## Results
 
+[Storyboard](https://public.tableau.com/app/profile/justin.allen2188/viz/CitibikeWork/NYCCitibikeStory)
+
 ### Deliverable 1: Change Trip Duration to a Datetime Format:
 
       citibike_df['tripduration'] = pd.to_datetime(citibike_df['tripduration'], unit='m')
